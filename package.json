@@ -1,11 +1,11 @@
 {
-  "name": "sbt_97_currency_converter",
-  "version": "1.0.0",
+  "name": "sbt601_currency_converter",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type":"module",
-  "bin": "index.js",
   "publishConfig": {"access": "public"},
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
